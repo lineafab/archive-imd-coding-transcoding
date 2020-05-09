@@ -57,17 +57,16 @@ My research started with examining the potential and spectrum of IISH archives. 
 Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
 He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
 
-<details>
- <summary> ## Microfiche</summary>
- ...this is hidden, collapsable content...
-</details>
-
 <a name="2.1"></a>
 ## Microfiche
 
 <a name="2.1.1"></a>
 ### What is a microfiche?
-A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
+<details>
+ <summary>What is a microfiche?</summary>
+ A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
+</details>
+
 
 
 <a name="2.1.2"></a>
