@@ -24,7 +24,6 @@
         - [HTML, CSS, JS](#3.2.2)
 4. [Reflection](#4)
 5. [Outcome](#5)
-[Website](https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Transcoding_01-website/autoscroll.html)
 6. [Conclusion](#Conclusion)
 7. [Bibliography](#Bibliography) 
 
