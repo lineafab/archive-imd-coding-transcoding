@@ -336,10 +336,9 @@ void draw() {
 </details>
 
 
-___
-
 <a name="3.3"></a>
-### Insert a voice into text 
+<details>
+<summary><b> #3 Insert a voice into text </b></summary>
 
 * **WHAT:** The text is very old with a old languages. I wanted to get a person to read the text up, to get it more contemporary and relatable. 
 
@@ -349,12 +348,10 @@ ___
 
 * **OUTCOME:** MP4 files. Youtube upload. 
 
+</details>
 
-Still in progress. 
-
-___
-
-### Transcoding 4: Make visual to text with content from a more present perspective
+<details>
+<summary><b> #4 Make visual to text with content from a more present perspective </b></summary>
 
 * **WHAT:** The text is very old with a old languages, but still very urgent subject. How will th visual look like of the text, if    I use some present content, but idea of it be for the future. 
 
@@ -373,9 +370,9 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
+</details>
 
 ___
-
 
 <a name="5"></a>
 # Outcome
