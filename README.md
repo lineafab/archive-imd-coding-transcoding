@@ -152,7 +152,7 @@ In my transcoding I wanted to research how to preserved these microfiches and th
 On my transcoding I focused on two methods, preservation and transformation.
 
 
-<a name="3.1"></a>
+<a name="3.1.1"></a>
 <details>
 <summary><b> #1 Clean the scans files</b></summary>
 	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
@@ -181,7 +181,7 @@ Still in progress
 </details>
 
 
-<a name="3.2"></a>
+<a name="3.1.2"></a>
 <details>
 <summary><b>#2 Processing with use the content</b></summary>
 
@@ -336,7 +336,7 @@ void draw() {
 </details>
 
 
-<a name="3.3"></a>
+<a name="3.1.3"></a>
 <details>
 <summary><b> #3 Insert a voice into text </b></summary>
 
