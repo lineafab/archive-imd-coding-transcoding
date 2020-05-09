@@ -152,6 +152,10 @@ In my transcoding I wanted to research how to preserved these microfiches and th
 On my transcoding I focused on two methods, preservation and transformation.
 
 
+<a name="3.1"></a>
+<details>
+<summary><b>Content transcoding</b></summary>
+
 <a name="3.1.1"></a>
 <details>
 <summary><b> #1 Clean the scans files</b></summary>
@@ -371,29 +375,30 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 Still in progress
 </details>
+</details>
 
-___
-
-<a name="5"></a>
-# Outcome
-
-<a name="5.1"></a>
-## website
-
-<a name="5.1.2"></a>
-
-### Website Try out one: 
+<a name="3.2.1"></a>
+<details>
+<summary><b>Website transcoding</b></summary>
+	
+<details>
+<summary><b>#1 Microfiche reader = website </b></summary>	
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/coding Sketches.jpg" width="700"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/coding Sketches2.jpg" width="700">
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/coding Sketches3.jpg" width="700"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/coding Sketches4.jpg" width="700">
 
-### Website Try out two: 
+</details>
+	
+<a name="3.2.2"></a>
+<details>
+<summary><b>#2 Microfiche reader = website</b></summary>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=c7qJmYxo4uM
 " target="_blank"><img src="http://img.youtube.com/vi/c7qJmYxo4uM/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
-___
-<a name="5.1.3"></a>
+	
+</details>
 
-## HTML, CSS, JS: 
+<details>
+<summary><b>#1 code</b></summary>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 	<script type="text/javascript">
 		$( function( ) {
@@ -460,8 +465,12 @@ ___
 		} );
 	</script>
 
+
+</details>
 ___
 
+<a name="5"></a>
+# Outcome
 
 
 
