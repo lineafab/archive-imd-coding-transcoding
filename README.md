@@ -201,11 +201,9 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S1.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S2.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S3.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S4.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S8.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S9.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S9.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S10.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S11.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S12.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S13.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S14.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S15.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S16.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S17.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S18.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S19.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S20.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S21.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S22.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S26.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S27.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S28.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S29.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S30.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S31.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S32.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S36.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S37.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S38.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S39.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S40.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S41.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S42.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S46.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S47.png" width="100"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S48.png" width="100">
 
-</details>
 
-
-
-* **CODE1:**
+<details>
+<summary><b>Processing code #1</b></summary>
 
 //import java.util.Calendar;
 import com.hamoid;
@@ -258,8 +256,12 @@ String timestamp() {
   return String.format("%1$ty%1$tm%1$td_%1$tH%1$tM%1$tS", now);
 }
 
-* **CODE2:**
+</details>
 
+
+<details>
+<summary><b>Processing code #2</b></summary>
+	
 PImage img;
 
 void setup() {
@@ -291,7 +293,13 @@ void draw() {
 
 }
 
-* **CODE3:**
+
+</details>
+
+
+<details>
+<summary><b>Processing code #3</b></summary>
+	
 
 color FG = #46FF33;
 color BG = #000000;
@@ -323,6 +331,10 @@ void draw() {
     }
   }
 }
+
+</details>
+</details>
+
 
 ___
 
