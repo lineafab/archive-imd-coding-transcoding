@@ -83,7 +83,8 @@ As the reliability of Microforms will never change, they are used by all kinds o
 </details>
 
 <a name="2.1.3"></a>
-### My uses of the microfiche
+<details>
+<summary><b>My uses of the microfiche</b></summary>
 * **WHAT:** I wanted to figure out the machines functionality. So I recorded my self useing it with different focus points. Recording of my handgesture when I was useing the machine. The screen function of zoom in and out. The sound of the machine.
 
 * **TOOL:** Video camera, handhold recording
@@ -105,6 +106,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 
+</details>
 
 <a name="2.2"></a>
 ### What is Mother Earth journal?
@@ -126,8 +128,15 @@ by the U.S. Post Office
 → Mother Earth Bulletin was forced to close. 
 
 
+
+
 <a name="2.2.1"></a>
-## Who is Emma goldmann and Alexander Berkman?
+<details>
+<summary><b> Who is Emma goldmann and Alexander Berkman?</b></summary>
+</details>
+
+
+
 
 <a name="3"></a>
 # Transcoding
@@ -140,8 +149,9 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 
 <a name="3.1"></a>
-## Clean the scans files
-* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
+<details>
+<summary><b> #1 Clean the scans files</b></summary>
+	* **WHAT:** I wanted to make it more possible to read and translate in web-based format, because the scans of the pages, is not straight and contrain a lot of dust from the microfilm machine.  
 
 * **TOOL:** Photoshop, adobe reader
 
@@ -164,10 +174,13 @@ On my transcoding I focused on two methods, preservation and transformation.
 
 
 Still in progress
-  
+</details>
+
+
 ___
 <a name="3.2"></a>
-### Processing with use the content
+<details>
+<summary><b>#2 Processing with use the content</b></summary>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
@@ -184,6 +197,10 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a><a href="ht
 alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S1.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S2.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S3.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S4.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S8.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S9.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S9.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S10.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S11.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S12.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S13.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S14.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S15.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S16.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S17.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S18.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S19.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S20.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S21.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S22.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S26.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S27.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S28.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S29.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S30.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S31.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S32.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S36.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S37.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S38.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S39.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S40.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S41.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S42.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S46.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S47.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/S48.png" width="200">
+
+</details>
+
+
 
 * **CODE1:**
 
