@@ -61,16 +61,16 @@ He desricbe as well that in a arhive will never be a linear narrative. its about
 ## Microfiche
 
 <a name="2.1.1"></a>
-### What is a microfiche?
 <details>
- <summary>What is a microfiche?</summary>
+<summary><b>What is a microfiche?</b></summary>
  A microfiche is a sheet of flat film, 105 x 148 mm. Microfiche is a type of film. Each piece of film can hold more than one hundred pages of printed text. The film varies in size but is usually just a few inches long and wide. A microfiche reader is necessary to then read the film. Microfiche allows various institutions to save space by converting paper documents, which take up much more space, to smaller microfiche files. Historically, libraries found microfiche very useful to expand their collections, while saving space. With advances in computers, many libraries and businesses have replaced their microfiche files with computerized ones. A microfiche can be in negative and positive films Microfiche aims to store fragile documents in an analog format, which may be newspapers, paper documents, or other paper material that has storage needs.
 </details>
 
 
 
 <a name="2.1.2"></a>
-### The history of microfiche and its use
+<details>
+<summary><b>The history of microfiche and its use</b></summary>
 The history of microfilm starts around the same time as the invention of photography. John Benjamin Dancer was one of the first to produce microphotographs in 1839, where he achieved a reduction ratio of 160:1. Throughout his life dancer perfected his microfilm results, and by 1853 he was successfully selling microphotographs as slides which could be viewed with a microscope. Throughout the rest of the century the science of microfilm continued to develop, as more people began to see new applications for the practice. One of its first real uses came during the Franco-Prussian war, where they were used to send messages to and from the front lines using pigeon carriers who could only carry large documents using microfilm.
 
 In the 1930’s the process was developed onto 35mm film, and saw its first real application for document storage when the University Microfilms Inc (UMI) was created by Eugene Power. He had previously been microfilming rare books, but now began making records of important dissertations. During WW2 the process was mainly used for espionage, as they could be used by spies to move around or send documents without them being found. They were also used for regular military mail purposes, and also by governments who feared their records and archives could be destroyed through relentless bombing campaigns.
@@ -80,7 +80,7 @@ In the post war years the technology for microfilm continued to improve, with be
 As the introduction of computers and the internet arrived in the 1990’s, this improved technology also increased output for microform applications. This meant they could now be produced directly from a computer, and then used for an unlimited amount of uses such as hospital records or catalogues.
 
 As the reliability of Microforms will never change, they are used by all kinds of libraries and archives as the best way to keep a hard copy of every document, and ensure they are never lost. Although they cannot be moved or shared in the same way as a digital file, they are completely full proof and will stand easily stand the test of time.
-
+</details>
 
 <a name="2.1.3"></a>
 ### My uses of the microfiche
