@@ -1,5 +1,5 @@
 
-[<img src="Mother%20Earth%20Magazine/COVERNEW.png" width="100%">](#)
+[<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/COVERNEW.png" width="100%">](#)
 # MOTHER EARTH JOURNAL
 
 ### Table of Contents
