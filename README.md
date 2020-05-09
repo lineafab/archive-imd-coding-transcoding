@@ -57,6 +57,10 @@ My research started with examining the potential and spectrum of IISH archives. 
 Derrida in Archive Fever desricbe the similiarity between an srchive and the human psylogi mnd. How we capture, select, lost memory. That our urgent to control everything, but as Derrida desribe that there will always be another perspective. 
 He desricbe as well that in a arhive will never be a linear narrative. its about perspective and personally  opinion/direction. Can I use the way/function(machine) of used of the microfilm today?. To transcode this magazine in the future. installation. circle experiences. Where to break the circle?
 
+<details>
+ <summary> ## Microfiche</summary>
+ ...this is hidden, collapsable content...
+</details>
 
 <a name="2.1"></a>
 ## Microfiche
