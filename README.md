@@ -16,7 +16,7 @@
 3. [Transcoding](#3)
     - [Content transcoding](#3.1)
     	- [#1 Clean the scans files](#3.1.1)
-        - [#2 Processing with use the content](#3.1.2)
+        - [T2: Processing with use the content](#3.1.2)
         - [#3 text into video clips](#3.1.3)
         - [#4 Insert a voice into text.](#3.1.4)
     - [website transcoding](#3.2)
@@ -187,7 +187,7 @@ Still in progress
 
 <a name="3.1.2"></a>
 <details>
-<summary><b>#2 Processing with use the content</b></summary>
+<summary><b>T2: Processing with use the content</b></summary>
 
 * **WHAT:** I wanted to use the journal itself to generate the some visuals that can give the website some visual element. 
 
