@@ -149,14 +149,14 @@ On my transcoding I focused on two methods, preservation and transformation.
 **Before**
 
 
-<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/0072.jpg" width="200"><img src="Mother%20Earth%20Magazine/0074.jpg" width="200">
-<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/M.E_1_0004.tif" width="200"><img src="Mother%20Earth%20Magazine/M.E_1_0016.tif" width="200">
+<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/0072.jpg" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/0074.jpg" width="200">
+<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/M.E_1_0004.tif" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/M.E_1_0016.tif" width="200">
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/M.E_1_0020.tif" width="200">
 
 **After**
 
 
-<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/P1.jpg" width="200"><img src="Mother%20Earth%20Magazine/P2.jpg" width="200">
+<img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/P1.jpg" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/P2.jpg" width="200">
 <img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/P3.png" width="200"><img src="https://github.com/lineafab/archive-imd-coding-transcoding/blob/master/Documentation/img/P4.jpg" width="200">
 
 
