@@ -467,6 +467,7 @@ alt="IMAGE ALT TEXT HERE" width="300" height="240" border="10" /></a>
 
 
 </details>
+</details>
 ___
 
 <a name="5"></a>
